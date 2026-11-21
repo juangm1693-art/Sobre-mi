@@ -4,6 +4,6 @@ Apasionado por la tecnologia, el aprendizaje constante y la resolucion de proble
 
 proyectos sena:
 
-mi receta hola
+mi receta hola hola
 
 https://github.com/juangm1693-art/mi-receta.git
