@@ -6,4 +6,6 @@ proyectos sena:
 
 mi receta hola hola
 
+Integré el ejercicio del repositorio conflicto-pareja dentro de mi proyecto sobre-mi para documentar mi práctica con control de versiones en Git. En esta actividad trabajé con creación de ramas, simulación de conflictos al modificar un mismo archivo de forma paralela y su posterior resolución mediante merges, dejando el historial limpio y sincronizado en mi perfil de GitHub.
+
 https://github.com/juangm1693-art/mi-receta.git
